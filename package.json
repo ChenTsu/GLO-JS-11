@@ -1,0 +1,19 @@
+{
+  "name": "glo-js-l11",
+  "version": "1.0.0",
+  "description": "JS4.0 lesson 11 - AJAX",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenTsu/GLO-JS-11.git"
+  },
+  "author": "Yan Vaidakovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenTsu/GLO-JS-11/issues"
+  },
+  "homepage": "https://github.com/ChenTsu/GLO-JS-11#readme"
+}
