@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
         el.value = el.oldValue;
         // el.classList.add(':invalid');
       }
-    })
-  }))
+    });
+  }));
   
 });
